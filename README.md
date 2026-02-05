@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico e consiste em um
    git clone <https://github.com/vanessa-aquino/ApiClientes-Teste>
 2. Acessa a pasta do projeto
    ```bash
-   cd Teste-ApiClientes
+   cd ApiClientes-Teste/ApiClientes
 3. Execute a aplicação
    ```bash
    dotnet run
